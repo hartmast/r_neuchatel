@@ -17,9 +17,10 @@ editor_options:
 ## Overview
 
 > 1. Choosing the "right" plot
-> 2. How to create a plot
-> 3. How to create a plot that's not totally ugly
-> 4. Best practices and deadly sins of data visualization
+> 2. Best practices and deadly sins of data visualization
+> 3. How to create a plot
+> 4. How to create a plot that's not totally ugly
+> 5. Saving plots
 
 ---
 
@@ -27,7 +28,9 @@ editor_options:
 
 > - Please open R and, ideally, RStudio.
 
-> - Please open the Googledoc.
+> - Please open the Googledoc: https://tinyurl.com/ya96r5bf
+
+> - Please download the toy datasets: https://tinyurl.com/neuchaRtel
 
 ---
 
