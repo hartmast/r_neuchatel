@@ -795,7 +795,7 @@ barplot(bar_heights, names.arg = c("stuff", "more\nstuff"),
 
 <img src="figure/unnamed-chunk-50-1.png" title="plot of chunk unnamed-chunk-50" alt="plot of chunk unnamed-chunk-50" width="50%" height="40%" style="display: block; margin: auto;" />
 
----
+--- transition:"none"
 
 ## Creating a barplot
 
@@ -907,7 +907,7 @@ barplot(bar_matrix, beside = T)
 
 Hands-on example: action-sentence compatibility task
 
-<iframe src="/Users/stefanhartmann/Dropbox/Privat/Deutsche Sprachgeschichte/Begleitmaterial/Begleitmaterial_Jan2018/Experimente/actionsentence/actionsentence.html"></iframe>
+<iframe src="http://pfriemelpfuhl.bplaced.net/jspsych-4.3/tests%26examples/actionsentence.html" frameborder=1></iframe>
 
 ---
 
